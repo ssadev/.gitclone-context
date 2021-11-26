@@ -2,7 +2,7 @@
 
 ## Git Clone custom action for linux (gnome) file manager [nautilus]
 
-![usage](https://raw.githubusercontent.com/ssadev/.gitclone-context/master/FileManager-Actions%20Configuration%20Tool%20Screenshots/usage.png)
+[![usage video](https://raw.githubusercontent.com/ssadev/.gitclone-context/master/FileManager-Actions%20Configuration%20Tool%20Screenshots/usage.png)](https://vimeo.com/650344133)
 
 ## FileManager-Actions Configuration Tool Settings Screenshots
 
